@@ -181,8 +181,8 @@ p {
 .section.footer.copyright {
   padding-top: 16px;
   padding-bottom: 16px;
-  background-color: #eebca9;
-  color: #444;
+  background-color: #2e2e2e;
+  color: #999;
   font-size: 14px;
 }
 
@@ -262,7 +262,7 @@ p {
 }
 
 .section.friends {
-  background-color: #eebca9;
+  background-color: #2e2e2e;
 }
 
 .slider {
@@ -1483,12 +1483,12 @@ p {
 }
 
 .landing {
-  background-color: #eebca9;
+  background-color: #2e2e2e;
 }
 
 .img-wrap {
   width: 100%;
-  max-width: 140px;
+  max-width: 180px;
   margin-right: auto;
   margin-left: auto;
   padding: 16px;
